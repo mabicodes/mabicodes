@@ -23,8 +23,6 @@ and more . . 📝
 alt="instagram icn" height="40" width="40"/></a>
 <a href="https://twitter.com/mabi_chuan/" target="_blank"><img src="https://i.imgur.com/ImIuJoi.png"
 alt="twitter icn" height="40" width="40"/></a>
-<a href="https://www.linkedin.com/in/marvie-nicole-uy-281b65171/"  target="_blank"><img src="https://i.imgur.com/bPt2pH3.png"
-alt="linkdn icon" height="50" width="50"/></a>
 <a href="#"  target="https://www.twitch.tv/mabi_chuan"> <img src="https://i.imgur.com/gBUbxTM.png"
 alt="twitch icon" height="50" width="50"/></a>
 
