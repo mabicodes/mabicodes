@@ -11,10 +11,11 @@
 -  HTML5 ✅
 -  CSS3 ✅ Sass ✅
 - React ✅
-- Java 📝️
-- PHP 📝
-- SQL 📝
-- Docker 📝
+- JavaScript 40% 📝️
+- Java 20% 📝️
+- PHP 5% 📝
+- SQL 5% 📝
+- Docker 15% 📝
 
 and more . . 📝 
 
